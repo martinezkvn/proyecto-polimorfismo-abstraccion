@@ -1,5 +1,5 @@
 Taller Práctico: Polimorfismo y Abstracción en Java
- Información General
+Información General
 
  
 Duración estimada: 2 a 3 horas
