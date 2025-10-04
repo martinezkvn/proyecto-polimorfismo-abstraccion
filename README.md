@@ -9,6 +9,7 @@ Estructura del proyecto:
 Cada ejercicio cuenta con dos paquetes: - interfaces: contiene las interfaces o clases abstractas que definen el comportamiento común.\
 
 main: contiene la clase principal (Main.java) con la ejecución y demostración del ejercicio.
+
 src/
 ├── Ejercicio1/
 │   ├── interfaces/
